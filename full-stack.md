@@ -30,4 +30,4 @@ We should be able to deploy your app locally on our machine.
 
 Also outline the limitation of your system and how you will improve it.
 
-If you have any questions, don't hesitate to contact us.
+If you have any questions, don't hesitate to contact [us](mailto:gilbert.wat@preface.education).
