@@ -1,6 +1,6 @@
 # Scheduling Mobile Web App
 
-We are building a mobile web app for our clients to schedule meetings with each others.
+In this take home assignment, you will develop a mobile web app for our clients to schedule meetings with each others.
 
 ## Product Requirement
 
@@ -8,7 +8,7 @@ As a user, she can login to our system by her email, if the email is not registe
 
 As a user, she can set her own availability.
 
-As a user, she can schedule a meeting with other users.
+As a user, she can schedule a 1:1 meeting with other users, based on others' availability.
 
 (Optional) As a user, she is notified if someone schedule a meeting with her.
 
@@ -24,7 +24,9 @@ The core logic of the app has to be covered with unit tests.
 
 Take a reasonable timeframe to complete the project. It should not take longer than a weekend.
 
-Please send your work via email with a clear git history once you are ready.
+Please send your source code via email with a clear git history once you are ready
+
+We should be able to deploy your app locally on our machine.
 
 Also outline the limitation of your system and how you will improve it.
 
